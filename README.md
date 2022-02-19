@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eesha 
+- 👋 Hi, I’m @Eesha29
 - 👀 I’m interested in c++ , python , and Machine learning
 - 🌱 I’m currently learning .net
 
